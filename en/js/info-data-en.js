@@ -1,5 +1,14 @@
 var infos = [
   {
+    date: "2026-09-05",
+    title: "v0.9.8 has been released",
+    body: "Added single-instance protection.",
+    link: {
+      url: "https://github.com/takuyash/WinSimpleFolderLauncher/releases",
+      label: "GitHub Releases を見る"
+    }
+  },
+  {
     date: "2026-05-10",
     title: "App Name Changed",
     body: "The app name has been changed to WinSimpleFolderLauncher.",

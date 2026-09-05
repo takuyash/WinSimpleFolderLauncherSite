@@ -1,5 +1,14 @@
 var infos = [
   {
+    date: "2026-09-05",
+    title: "v0.9.8 をリリースしました",
+    body: "二重起動を防止するように修正。",
+    link: {
+      url: "https://github.com/takuyash/WinSimpleFolderLauncher/releases",
+      label: "GitHub Releases を見る"
+    }
+  },
+  {
     date: "2026-05-10",
     title: "アプリ名を変更しました。",
     body: "アプリ名を「WinSimpleFolderLauncher」に変更しました。",
