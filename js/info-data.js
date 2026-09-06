@@ -1,5 +1,14 @@
 var infos = [
   {
+    date: "2026-09-06",
+    title: "v0.9.9 をリリースしました",
+    body: "検索バーに虫眼鏡アイコンと検索とわかる文言を追加しました。",
+    link: {
+      url: "https://github.com/takuyash/WinSimpleFolderLauncher/releases",
+      label: "GitHub Releases を見る"
+    }
+  },
+  {
     date: "2026-09-05",
     title: "v0.9.8 をリリースしました",
     body: "二重起動を防止するように修正。",

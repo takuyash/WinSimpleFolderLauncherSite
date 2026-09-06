@@ -1,5 +1,14 @@
 var infos = [
   {
+    date: "2026-09-06",
+    title: "v0.9.9 has been released",
+    body: "Added a magnifying glass icon and text indicating that the field is for searching to the search bar.",
+    link: {
+      url: "https://github.com/takuyash/WinSimpleFolderLauncher/releases",
+      label: "GitHub Releases を見る"
+    }
+  },
+  {
     date: "2026-09-05",
     title: "v0.9.8 has been released",
     body: "Added single-instance protection.",
