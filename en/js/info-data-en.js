@@ -1,5 +1,14 @@
 var infos = [
   {
+    date: "2026-11-02",
+    title: "v1.0.3 has been released",
+    body: "Modified the design.",
+    link: {
+      url: "https://github.com/takuyash/WinSimpleFolderLauncher/releases",
+      label: "GitHub Releases を見る"
+    }
+  },
+  {
     date: "2026-10-10",
     title: "v1.0.2 has been released",
     body: "The Explorer-style design can now be selected.",
